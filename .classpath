@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="lib" path="lib/aopalliance-repackaged-2.5.0-b30.jar" sourcepath="/home/al/.sourceattacher/aopalliance-repackaged-2.5.0-b30-sources.jar"/>
 	<classpathentry kind="lib" path="lib/grizzly-framework-2.3.28.jar" sourcepath="/home/al/.sourceattacher/grizzly-framework-2.3.28-sources.jar"/>
 	<classpathentry kind="lib" path="lib/grizzly-http-2.3.28.jar" sourcepath="/home/al/.sourceattacher/grizzly-http-2.3.28-sources.jar"/>
